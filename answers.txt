@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git because it is a great way to work collaboratively with others since Git supports peer review and working together. This allows multiple developers to work together, enabling them to develop code efficiently.
